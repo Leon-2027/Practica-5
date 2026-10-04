@@ -38,7 +38,7 @@ public class P5_1 {
 				System.out.println("Todos los artículos seleccionados");
 				break;
 			default:
-				System.out.println("Opción inváida, ingrese otra");
+				System.out.println("Opción inválida, ingrese otra");
 				break;
 			}
 		}while(ar!=-1);
